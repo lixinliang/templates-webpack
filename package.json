@@ -16,7 +16,7 @@
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "autoprefixer": "^6.5.3",
+    "autoprefixer": "^6.7.0",
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
     "babel-plugin-transform-runtime": "^6.9.0",
